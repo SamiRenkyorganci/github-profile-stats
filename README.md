@@ -85,6 +85,6 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Contact
 
-Sami Renkyorganci - [@SamiRenkyorganci](https://twitter.com/SamiRenkyorganci) - sami@example.com
+Sami Renkyorganci - [@SamiRenkyorganci](https://twitter.com/mucahitsamii) - samirenkyorganc@gmail.com
 
 Project Link: [https://github.com/SamiRenkyorganci/github-profile-stats](https://github.com/SamiRenkyorganci/github-profile-stats)
